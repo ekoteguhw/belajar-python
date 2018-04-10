@@ -1,7 +1,8 @@
 ## Belajar Python
 
-* 01. Input, Output, dan Operasi sederhana
-
+* Input, Output, dan Operasi sederhana
+* Menggunakan Variabel
+* Conditional If-Else
 
 
 
