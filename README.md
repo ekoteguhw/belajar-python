@@ -5,6 +5,7 @@
 * Conditional If-Else
 * Perbandingan dan Logic
 * Pengulangan For Loop dan While Loop
+* Membuat Fungsi
 
 ### Requirement
 * Python3
