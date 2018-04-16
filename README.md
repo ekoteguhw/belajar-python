@@ -4,7 +4,7 @@
 * Menggunakan Variabel
 * Conditional If-Else
 * Perbandingan dan Logic
-
+* Pengulangan For Loop dan While Loop
 
 ### Requirement
 * Python3
