@@ -3,7 +3,7 @@
 * Input, Output, dan Operasi sederhana
 * Menggunakan Variabel
 * Conditional If-Else
-
+* Perbandingan dan Logic
 
 
 ### Requirement
