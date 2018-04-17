@@ -1,5 +1,7 @@
 ## Belajar Python
 
+![alt text](https://github.com/ekoteguhw/belajar-python/raw/master/screenshoot.png "Contoh screenshoot")
+
 * Input, Output, dan Operasi sederhana
 * Menggunakan Variabel
 * Conditional If-Else
