@@ -7,6 +7,7 @@
 * Pengulangan For Loop dan While Loop
 * Membuat Fungsi
 * Membuat Kelas
+* Pengenalan Array dan Matriks di numpy
 
 ### Requirement
 * Python3
