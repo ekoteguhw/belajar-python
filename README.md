@@ -8,6 +8,7 @@
 * Membuat Fungsi
 * Membuat Kelas
 * Pengenalan Array dan Matriks di numpy
+* Manipulasi Array di numpy
 
 ### Requirement
 * Python3
