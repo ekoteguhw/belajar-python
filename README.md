@@ -6,6 +6,7 @@
 * Perbandingan dan Logic
 * Pengulangan For Loop dan While Loop
 * Membuat Fungsi
+* Membuat Kelas
 
 ### Requirement
 * Python3
