@@ -1,0 +1,5 @@
+No,Nama,Umur,Asal
+1,Eko,23,Jakarta
+2,Teguh,29,Lampung
+3,Widodo,25,Semarang
+4,Widodo,25,Semarang

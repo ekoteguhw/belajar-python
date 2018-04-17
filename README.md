@@ -13,6 +13,7 @@
 * Manipulasi Array di numpy
 * Membaca File di numpy
 * Plot Data matplotlib
+* Menggunakan DataFrame pandas
 
 ### Requirement
 * Python3
