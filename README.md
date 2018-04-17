@@ -10,6 +10,7 @@
 * Pengenalan Array dan Matriks di numpy
 * Manipulasi Array di numpy
 * Membaca File di numpy
+* Plot Data matplotlib
 
 ### Requirement
 * Python3
