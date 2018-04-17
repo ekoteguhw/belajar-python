@@ -9,6 +9,7 @@
 * Membuat Kelas
 * Pengenalan Array dan Matriks di numpy
 * Manipulasi Array di numpy
+* Membaca File di numpy
 
 ### Requirement
 * Python3
