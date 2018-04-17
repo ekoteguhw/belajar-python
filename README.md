@@ -14,6 +14,7 @@
 * Membaca File di numpy
 * Plot Data matplotlib
 * Menggunakan DataFrame pandas
+* Debug code (dengan PyCharm)
 
 ### Requirement
 * Python3
