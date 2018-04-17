@@ -1,7 +1,11 @@
 ## Belajar Python
+Belajar Python (python3) untuk bisa lanjut ke Data Science.
+Pembelajaran bersumber dari Youtube mas Ardian Umam bisa dicek link berikut:
+[Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLkRkKTC6HZMyG2WGs7fBclS63KwBqtZFx)
 
 ![alt text](https://github.com/ekoteguhw/belajar-python/raw/master/screenshoot.png "Contoh screenshoot")
 
+### Materi
 * Input, Output, dan Operasi sederhana
 * Menggunakan Variabel
 * Conditional If-Else
